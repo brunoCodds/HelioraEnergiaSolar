@@ -1,0 +1,45 @@
+COMO ADICIONAR AS FOTOS
+========================
+Basta salvar os arquivos de imagem NESTA pasta (images/) usando exatamente
+os nomes abaixo. O site já está com os espaços reservados — assim que você
+colocar o arquivo com o nome certo, a foto aparece automaticamente no lugar
+do quadro amarelo/cinza de aviso.
+
+Formato recomendado: .jpg, otimizado para web (até ~300kb cada).
+
+
+PÁGINA INÍCIO (index.html)
+---------------------------
+hero-paineis-solares.jpg     → foto larga de painéis solares, ideal ao entardecer  (2400×1400px)
+equipe-instalacao.jpg        → foto vertical da equipe instalando um sistema        (1000×1250px)
+servico-energia-solar.jpg    → painéis fotovoltaicos em telhado                     (800×500px)
+servico-solar-termico.jpg    → boiler / coletor térmico instalado                   (800×500px)
+servico-piscinas.jpg         → piscina residencial aquecida                        (800×500px)
+campo-paineis-solares.jpg    → vista aérea de um campo/usina de painéis (fundo da
+                                seção de contato, aparece com uma leve escurecida)   (2000×1400px)
+
+
+PÁGINA INSTALAÇÕES (instalacoes.html) — galeria de projetos
+-------------------------------------------------------------
+inst-01-boiler.jpg               → boiler térmico residencial            (800×600px)
+inst-02-paineis-laje.jpg          → painéis fotovoltaicos em laje         (800×600px)
+inst-03-estrutura-solo.jpg        → estrutura de solo/terreno             (800×600px)
+inst-04-telhado-ceramico.jpg      → painéis em telhado cerâmico           (800×600px)
+inst-05-casa-piscina.jpg          → casa com piscina aquecida             (800×600px)
+inst-06-coletores-telhado.jpg     → coletores térmicos em telhado         (800×600px)
+inst-07-cobertura-comercial.jpg   → fotovoltaico em cobertura comercial   (800×600px)
+inst-08-vista-aerea.jpg           → vista aérea de instalação             (800×600px)
+inst-09-galpao.jpg                → coletores térmicos em galpão          (800×600px)
+inst-10-telhado-metalico.jpg      → painéis em telhado metálico           (800×600px)
+inst-11-estrutura-elevada.jpg     → estrutura elevada de fixação          (800×600px)
+inst-12-reservatorio.jpg          → reservatório térmico                  (800×600px)
+inst-13-conexoes.jpg              → conexões hidráulicas do sistema       (800×600px)
+inst-14-inversor.jpg              → inversor fotovoltaico na parede       (800×600px)
+
+Dica: você pode reaproveitar as fotos que já tinha no site antigo — os nomes
+acima são só sugestões, o importante é que cada arquivo tenha o nome exato
+listado. Se quiser trocar alguma foto de lugar, é só renomear o arquivo.
+
+Nenhuma imagem aqui ainda? Sem problema — enquanto os arquivos não existirem,
+o site mostra um quadro de aviso no lugar, só para você (o visitante do site
+nunca vê nada quebrado feio, mas o ideal é subir as fotos reais antes de publicar).
